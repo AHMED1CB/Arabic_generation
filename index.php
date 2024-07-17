@@ -8,6 +8,7 @@ include 'inc/init.php';
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="file/image/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="<?=$index?>">
+    <link rel="stylesheet" href="<?=$nav2?>">
     <link rel="stylesheet" href="<?=$scrollbar?>">
     <title>الجيل البرمجي العربي</title>
 </head>

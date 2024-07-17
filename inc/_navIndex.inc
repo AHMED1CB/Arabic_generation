@@ -1,7 +1,7 @@
-    <link rel="stylesheet" href="../style/css/nav.css">
 <?php
 include 'init.php';
 ?>
+    <link rel="stylesheet" href="<?=$nav?>">
  <!-- start navbar -->
         <nav>
 
@@ -43,9 +43,6 @@ include 'init.php';
              
         </nav>
          <!-- end navbar -->
-
-
-
 
 
 

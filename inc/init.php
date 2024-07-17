@@ -30,6 +30,7 @@ $footer     = "../inc/_footer.php";
 $navIndex2  = "inc/_navIndex.inc";
 $footer2    = 'inc/_footer.php';
 $contact2   = 'other/contact.php'; 
+$nav2       = "style/css/nav.css";
 
 
 #------------------------------------------
@@ -43,7 +44,7 @@ $homeP      = "../user/home.php";
 $profileP   = "../profile/profile.php";
 $login      = "../log@reg/login.php";
 $logout     = "../log@reg/logout.php";
-$reg        = "../log@reg/register.php";
+$reg        = "log@reg/register.php";
 $roadmap 	= '../other/roadmap.php';
 $langs 		= '../other/lang_programing.php';
 $communitie = '../other/communitie.php'; 

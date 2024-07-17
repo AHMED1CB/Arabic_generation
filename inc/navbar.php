@@ -8,7 +8,7 @@ include "init.php";
 
             <div class="logo">
                 <div class="logo_img">
-                    <a href="<?=$indexP?>"></a>
+                    <a href="<?=$idexP?>"></a>
                 </div>
                 <h1>
                 <a href="<?=$indexP?>">
@@ -40,5 +40,4 @@ include "init.php";
 </script>
 <script src="<?=$toggleMenu?>">
 </script>
-
 
