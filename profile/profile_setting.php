@@ -68,7 +68,42 @@ include '../inc/init.php';
                 })
         </script>
     </div>
-
+    <h4 class="h4_edit_profile">
+    تعديل البيانات الشخصية:
+ </h4>
+ <div class="edit_container">
+   <div class="edit_box">
+     <h5>الاسم الشخصي</h5>
+     <input type="text" name="new_firstName" placeholder="الاسم الشخصي" class="edit_input">
+   </div>
+   <div class="edit_box">
+     <h5>الاسم العائلي</h5>
+     <input type="text" name="new_firstName" placeholder="الاسم العائلي" class="edit_input">
+   </div>
+   <div class="edit_box">
+     <h5> الجنس</h5>
+    <select name="gender" id="gender">
+        <option value="">غير محدد</option>
+        <option value="male">ذكر</option>
+        <option value="female">انثى</option>
+    </select>
+   </div>
+ </div>
+ <div class="edit_container">
+   <div class="edit_box">
+     <h5> تاريخ الازدياد</h5>
+     <input type="date" name="newDateBirdth" placeholder="الاسم الشخصي" class="edit_input">
+   </div>
+   <div class="edit_box">
+     <h5> رقم الهاتف</h5>
+     <input type="number" name="new_PhoneNumber" placeholder=" رقم الهاتف" class="edit_input">
+   </div>
+   <div class="edit_box">
+     <h5> موقعك الشخصي</h5>
+     <input type="text" name="new_PhoneNumber" placeholder="   موقعك الشخصي" class="edit_input">
+   
+   </div>
+ </div>
  </div>
 </form>
 </body>
