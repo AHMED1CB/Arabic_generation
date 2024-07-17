@@ -1,6 +1,6 @@
 <?php
 // css files
-$index     = "../style/css/index.css";
+$index     = "style/css/index.css";
 $home      = "../style/css/home.css";
 $profile   = "../style/css/profile.css";
 $register  = "../style/css/register.css";

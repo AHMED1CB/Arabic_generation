@@ -7,7 +7,7 @@ include '../inc/init.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="<?=$register?>">
-    <link rel="shortcut icon" href="file/image/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../file/image/logo.png" type="image/x-icon">
     <title>انشاء حساب</title>
 </head>
 <body dir="rtl">
